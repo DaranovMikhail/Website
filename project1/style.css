@@ -1,0 +1,28 @@
+a{
+  color: black;
+}
+
+.footer {
+    flex: 0 0 auto;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+    height: 17px;
+}
+
+.menu a li {
+    list-style: none;
+}
+
+.menu a {
+    text-decoration: none;
+    font-family: fantasy;
+}
+
+.menu a:hover {
+    color: forestgreen;
+    font-size: 20px;
+    
+}
