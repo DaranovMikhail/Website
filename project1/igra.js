@@ -10,7 +10,7 @@ function gameGuess() {
         return gameGuess();
     }
     else {
-        alert("Вы угадали");
+        alert("Вы угадали!");
     }
 }
 

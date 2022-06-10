@@ -49,7 +49,7 @@ input {
     text-transform: uppercase;
 }
 
-.button:hover{
+.button:hover {
     background: blue;
 }
 

@@ -3,4 +3,4 @@ function reminder() {
     //window.close();
 }
 
-setTimeout(reminder, 15000);
+setTimeout(reminder, 10000);
